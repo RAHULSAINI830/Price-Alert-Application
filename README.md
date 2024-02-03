@@ -74,6 +74,10 @@ Creating Alert
 
 ![Create](https://github.com/RAHULSAINI830/Price-Alert-Application/assets/96569692/c437bfea-3fdc-4222-ab0f-7b17f4cdffa6)
 
+Deleting Alert
+
+![Delete](https://github.com/RAHULSAINI830/Price-Alert-Application/assets/96569692/dfd26259-ed8e-4fea-93c6-a4177ed0611c)
+
 
 
 Usage
@@ -85,5 +89,9 @@ Acknowledgments
 This project was developed as part of an assignment for tanX.fi. Special thanks to the team for the opportunity.
 
 Author
-Rahul saini
+
+
+Rahul Saini
+
+
 8306885992
