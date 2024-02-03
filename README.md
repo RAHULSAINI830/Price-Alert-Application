@@ -44,8 +44,8 @@ This is a price alert application that triggers an email when the user's target 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/price-alert-app.git
-   cd price-alert-app
+   git clone https://github.com/RAHULSAINI830/Price-Alert-Application.git
+
 to optimize the fetching of alerts and relies on Rabbit MQ for asynchronous email notifications.
 
 
