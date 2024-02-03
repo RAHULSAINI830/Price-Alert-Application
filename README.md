@@ -60,8 +60,19 @@ Build and run the Docker container:
 
 docker-compose up -d
 Visit http://localhost:5000 to access the application.
-I am attaching API Output:-
-#login
+
+
+# I am attaching API Output:-
+
+
+login
+
+
+![Login](https://github.com/RAHULSAINI830/Price-Alert-Application/assets/96569692/cf801978-cbb3-4170-8858-22dc95bc0d0e)
+
+Creating Alert
+
+![Create](https://github.com/RAHULSAINI830/Price-Alert-Application/assets/96569692/c437bfea-3fdc-4222-ab0f-7b17f4cdffa6)
 
 
 
